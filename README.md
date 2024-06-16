@@ -1,4 +1,6 @@
 ## Exercício sobre manipulação de arquivos.  
-### Classe Product  
+### Classes BufferedReader, FileReader, BufferedWriter e FileWritter.  
+### Classe Product.
 ### source.csv  
 ### summary.csv
+
